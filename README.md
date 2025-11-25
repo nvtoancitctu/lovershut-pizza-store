@@ -1,13 +1,20 @@
-# E-Commerce Website in PHP MySQL (Lover's Hut Pizza Store)
+# E-Commerce Website in PHP & MySQL – Lover's Hut Pizza Store
 
-Học kỳ 2, Năm học 2024-2025
+**Semester:** 2  
+**Academic Year:** 2024-2025  
 
-Phát triển từ website niên luận cơ sở
+This project is developed based on a **foundation-level capstone project** as part of the IT program, and serves as a **specialized IT capstone project**.
 
-## Dự án niên luận chuyên ngành công nghệ thông tin
+---
 
-Sinh viên: NGUYỄN VĂN TOÀN
+## 👨‍💻 Student Information
 
-MSSV: B2111824
+- **Name:** NGUYỄN VĂN TOÀN  
+- **Student ID:** B2111824  
 
-Tiến độ: 3/3-9/4/2025
+---
+
+## 📅 Project Timeline
+
+- **Start Date:** 03/03/2025  
+- **End Date:** 09/04/2025
